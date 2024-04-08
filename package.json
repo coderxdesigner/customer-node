@@ -1,0 +1,13 @@
+{
+  "name": "customer-node",
+  "version": "1.0.0",
+  "description": "Customer app using express",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"},
+  "author": "Rachel H",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
