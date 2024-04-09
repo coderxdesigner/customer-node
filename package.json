@@ -4,10 +4,12 @@
   "description": "Customer app using express",
   "main": "src/app.js",
   "scripts": {
-    "start": "node src/app.js"},
+    "start": "npx nodemon src/app.js"
+  },
   "author": "Rachel H",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
   }
 }
